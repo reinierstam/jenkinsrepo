@@ -1,4 +1,3 @@
 change for build
-n
 mvn sonar:sonar -Dsonar.host.url=http://145.24.222.221:9000/sonar -Dsonar.analysis.mode=preview -Dsonar.issuesReport.html.enable=true
 mvn sonar:sonar -Dsonar.host.url=http://145.24.222.221:9000/sonar -Dsonar.analysis.mode=preview -Dsonar.issuesReport.html.enable=true
